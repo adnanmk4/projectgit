@@ -1,0 +1,74 @@
+body{
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/apple-music/background.png);
+}
+.navbar{
+    background-color: #0055c3;
+}
+.nav-item{
+    margin-right: 1.5rem;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size:14px ;
+    cursor: pointer;
+    font-style: inherit;
+    font-weight: 600;
+}
+.nav-item > a{
+color: #fff;
+}
+.navbar-brand{
+    margin-right: 50px;
+}
+.button{
+    font-size: 0.7em;
+    padding: 2px 20px ;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    background: transparent;
+    color: #fff;
+    font-family: Sofia Pro Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: #fff;
+    color: #0055c3;
+}
+.img2{
+    display: flex;
+    justify-content: center;
+}
+.img3{
+   display: flex;
+   justify-content: left;
+   align-items: left;
+   height: 100vh;
+   margin-bottom: 10%;
+   padding: 100px;
+   max-width: 10%;
+   margin: 0px;
+   
+}
+.border{
+    background-color: black;
+    size: 50%;
+    
+}
+.one{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.two{
+    height: 10vh;
+    size-adjust: 10px;
+}
+.border-2{
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/nitro/Desktop_Background.png);
+}
+.four{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
